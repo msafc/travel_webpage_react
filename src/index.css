@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&family=Roboto:wght@100;300;400;700&display=swap');
+
+:root {
+    /* FONTS */
+    --font-family-titles: 'Oranienbaum', serif;
+    --font-family-text: 'Roboto', sans-serif;
+
+    /* COLORS */
+    --color-footer-text: #184D47; 
+    --color-titles: #B90B0B;
+    --color-contact-bg: rgba(91, 109, 91, 0.3);
+    --color-opinions-bg: rgba(200, 92, 92, 0.3);
+    --color-grey-bg: #F6F6F6;
+    
+}
